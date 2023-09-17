@@ -18,21 +18,22 @@ img {
 }
 
 .hero-text {
-    display: flex
-    border: black;
-    /* grid-column: 2/3;
-    grid-row: 1/2; */
+    background-color:rgb(3, 76, 149);
+    grid-column: 2/3;
+    grid-row: 1/2;
+    height: auto;
     padding: 0px;
     margin: 0px;
 }
 
 .hero-img3 {
     grid-column: 2/3;
-    grid-row: 2/3;
+    grid-row: 2-3;
     padding: 0px;
     margin: 0px;
+    
 }
 
 p {
-    color: blueviolet;
+    margin: 100px;
 }
